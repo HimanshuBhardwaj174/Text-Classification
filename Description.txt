@@ -1,0 +1,6 @@
+• Gathered a comprehensive dataset comprising 20 distinct categories of news headlines encompassing
+diverse topics like sports, politics etc, totaling 20,000 news articles for robust model training.
+• Conducted data pre-processing by converting a linear list into a matrix of 20,000 x 139,711
+dimensions, thereby establishing the groundwork for model selection and implementation.
+• Implemented Naive Bayes classifiers to accurately predict news categories, achieving a notable
+48% accuracy, offering users enhanced relevance and engagement
